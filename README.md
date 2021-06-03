@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on
   - Electron Based application/tooling utilizing bootstrap for styling and vanilla javascript to do data manipulations through the Pipedrive API.  
+  - ES6 Class based Mortgage Object for solving mortgage calculations.
 - 🌱 I’m currently learning
   -   React
   -   Vue 3 with Composition API
