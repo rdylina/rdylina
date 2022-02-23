@@ -4,6 +4,12 @@
 
 > A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. -Winston Churchill
 
+### About Me
+- Computer Engineering at Cal Poly, Construction Management at Cuesta, Business Admin with concentration in Finance at CSU Stanislaus, MBA in progress at CSU Stanislaus. Currently working in real estate financial and real estate development with a passion in programming. 💻🏡 
+- Two Dogs 🐕‍🦺🐕‍🦺 
+
+### My Projects/Skills
+
 - 🔭 I’m currently working on
   - Electron Based application/tooling utilizing bootstrap for styling and vanilla javascript to do data manipulations through the Pipedrive API.  
   - ES6 Class based Mortgage Object for solving mortgage calculations.
