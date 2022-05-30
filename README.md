@@ -15,7 +15,9 @@
   - ES6 Class based Mortgage Object for solving mortgage calculations.
 - 🌱 I’m currently learning
   -   React
-  -   Vue 3 with Composition API
+  -   ReactNative
+  -   NextJS
+  -   NestJS
   -   Electron
 - 💬 Ask me about the residential and commercial financing markets.
 - 📫 How to reach me: rdylina@gmail.com
