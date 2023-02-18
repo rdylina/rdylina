@@ -1,6 +1,6 @@
 # Robert J Dylina 
 ## est. 1982 👋
-### I work primarily in residential mortgages/financing but my passion is technology and processing innovation/automation.
+### I work primarily in residential mortgages/financing but my passion is technology and process innovation/automation.
 
 > A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. -Winston Churchill
 
