@@ -14,10 +14,10 @@
   - Electron Based application/tooling utilizing bootstrap for styling and vanilla javascript to do data manipulations through the Pipedrive API.  
   - ES6 Class based Mortgage Object for solving mortgage calculations.
   - Investment underwriting software.
-- Languages and Framekworks
+- Languages and Frameworks
   - NextJS
   - React
-  - Tailwind CSS
+  - Tailwind CSS/UI
   - Bootstrap
   - Electron
 - 🌱 I’m currently learning
